@@ -151,24 +151,5 @@ if (empty($id)) {
             <i class="mdui-list-item-icon mdui-icon material-icons">person_outline</i>
             &emsp;后台
           </a>
-        </div>
-        <a href="./about.php" class="mdui-list-item">
-          <i class="mdui-list-item-icon mdui-icon material-icons">info_outline</i>
-          &emsp;关于
-        </a>
-        <div class="mdui-collapse-item ">
-          <div class="mdui-collapse-item-header mdui-list-item mdui-ripple">
-            <i class="mdui-list-item-icon mdui-icon material-icons">&#xe80d;</i>
-            &emsp;友链
-            <i class="mdui-collapse-item-arrow mdui-icon material-icons">keyboard_arrow_down</i>
-          </div>
-          <div class="mdui-collapse-item-body mdui-list">
-            <a href="//blog.xsot.cn" class="mdui-list-item mdui-ripple ">星辰日记</a>
-          </div>
-          <div class="mdui-collapse-item-body mdui-list">
-            <a href="//love.xsot.cn" class="mdui-list-item mdui-ripple ">星辰表白墙</a>
-          </div>
-        </div>
-      </div>
     </div>
   </div>

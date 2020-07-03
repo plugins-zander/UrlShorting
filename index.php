@@ -111,11 +111,13 @@ if ($status == "passmessage") {
 <div class="mdui-container doc-container">
     <div class="mdui-typo">
          <h2>帮助</h2>
-         1.输入短域请加上http(s)://<br />
-         2.中文域名请手动Punycode编码后再使用<br />
-         3.网址最长支持1000字符<br />
-         4.密语最长支持3000字符(合1000汉字)<br />
-         5.其余详见菜单-帮助界面
+         1.自用url缩短平台，访客使用不保证长久有效<br />
+         2.访客缩短的链接或者密语必须遵守国家相关法律<br />
+         3.输入短域请加上http(s)://<br />
+         4.中文域名请手动Punycode编码后再使用<br />
+         5.网址最长支持1000字符<br />
+         6.密语最长支持3000字符(合1000汉字)<br />
+         7.其余详见菜单-帮助界面
     </div>
 </div>
 <?php require_once "footer.php"; ?>
